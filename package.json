@@ -1,0 +1,23 @@
+{
+  "name": "liri-project",
+  "version": "1.0.0",
+  "description": "LIRI Project",
+  "main": "keys.js",
+  "scripts": {
+    "test": "Command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanickel1/LIRI-Project.git"
+  },
+  "keywords": [
+    "LIRI",
+    "App"
+  ],
+  "author": "Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanickel1/LIRI-Project/issues"
+  },
+  "homepage": "https://github.com/tanickel1/LIRI-Project#readme"
+}
